@@ -1,9 +1,9 @@
-version: 1.0.0
 info:
   model: int-scaffold
 packages:
-- name: SunTestProject
+- gitBranch: release/2.0.0
   gitServerName: NewGitACC
   gitUrl: https://github.com/aadi-tripathi
   gitUsername: aadi-tripathi
-  gitBranch: release/1.0.0
+  name: SunTestProject
+version: 2.0.0
