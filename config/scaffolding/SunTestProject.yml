@@ -1,9 +1,9 @@
-version: "1.0"
 info:
   model: int-scaffold
 packages:
-- name: SunTestProject
+- gitBranch: main
   gitServerName: NewGitACC
   gitUrl: https://github.com/aadi-tripathi
   gitUsername: aadi-tripathi
-  gitBranch: main
+  name: SunTestProject
+version: '1.0'
